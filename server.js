@@ -69,5 +69,5 @@ app.post("/save-cv", async (req, res) => {
 
 // Start Server
 app.listen(PORT, () => {
-  console.log(`Server running on 44.226.145.213`);
+  console.log(`Server running on https://api.render.com/deploy/srv-cud2ppdumphs73dfk9g0?key=pp69RsQpfL8`);
 });
