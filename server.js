@@ -69,5 +69,5 @@ app.post("/save-cv", async (req, res) => {
 
 // Start Server
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server running on https://resume-builder-backend-aijl.onrender.com/`);
 });
